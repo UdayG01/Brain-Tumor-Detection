@@ -3,7 +3,7 @@
 A comprehensive comparison of various deep learning models for brain tumor detection using MRI images. 🚀
 
 <p align="center">
-    <img src="tumor_image.png" alt="Brain Tumor Project Logo Image">
+    <img src="tumor_image.webp" alt="Brain Tumor Project Logo Image">
 </p>
 
 ---
