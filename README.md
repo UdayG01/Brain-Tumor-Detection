@@ -1,6 +1,6 @@
 # Brain Tumor Detection Model Comparison 🧠📊
 
-A comprehensive comparison of various deep learning models for brain tumor detection using MRI images. 🚀
+A detailed evaluation of cutting-edge deep learning models for accurate brain tumor detection from MRI scans, empowering advancements in medical diagnostics. 🧠✨
 
 <p align="center">
     <img src="tumor_image.webp" alt="Brain Tumor Project Logo Image">
